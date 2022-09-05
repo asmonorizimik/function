@@ -15,9 +15,4 @@
 # even(num=int(input("enter:")))
 
 
-
-dict1={1:2,2:3,3:4,4:5}
-sum=0
-for i in dict1.values():
-    sum=sum+1
-    print(sum)
+# checking whether the last digit of every number given by user is even or not
